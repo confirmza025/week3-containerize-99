@@ -113,7 +113,7 @@ onMounted(fetchProducts)
         <span class="kv-glyph">⌗</span>
         <div>
           <div class="kv-name">5dog.com</div>
-          <div class="kv-sub">Game Key Management</div>
+          <div class="kv-sub">Game free fire 9.com</div>
         </div>
       </div>
       <button class="kv-btn-add" @click="openAdd">+ เพิ่มสินค้า</button>
