@@ -34,7 +34,7 @@ jobs:
         uses: docker/login-action@v3
         with:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
-          password: ${{ secrets.DOCKERHUB_TOKEN }}    # ใช้ Access Token ไม่ใช่ password
+          password: ${{ secrets.DOCKERHUB_PASSWORD }}
 
       # Build Backend image → push 2 tags: version + latest
       - name: Build & push backend image
