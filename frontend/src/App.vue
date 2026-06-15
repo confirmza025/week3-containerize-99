@@ -140,7 +140,7 @@ onMounted(fetchProducts)
         <div class="kv-stat s-green">
           <div class="kv-stat-deco">VALUE</div>
           <div class="kv-stat-num kv-stat-val">฿{{ Math.round(stats.totalValue).toLocaleString() }}</div>
-          <div class="kv-stat-label">มูลค่าสต็อก</div>
+          <div class="kv-stat-label">มูลค่าสต็อกlimted</div>
         </div>
       </div>
 
