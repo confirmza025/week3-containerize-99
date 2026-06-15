@@ -113,7 +113,7 @@ onMounted(fetchProducts)
         <span class="kv-glyph">⌗</span>
         <div>
           <div class="kv-name">5dog.com</div>
-          <div class="kv-sub">Game Key Management</div>
+          <div class="kv-sub">Game free fire 9.com</div>
         </div>
       </div>
       <button class="kv-btn-add" @click="openAdd">+ เพิ่มสินค้า</button>
@@ -140,7 +140,7 @@ onMounted(fetchProducts)
         <div class="kv-stat s-green">
           <div class="kv-stat-deco">VALUE</div>
           <div class="kv-stat-num kv-stat-val">฿{{ Math.round(stats.totalValue).toLocaleString() }}</div>
-          <div class="kv-stat-label">มูลค่าสต็อก</div>
+          <div class="kv-stat-label">มูลค่าสต็อกlimted888</div>
         </div>
       </div>
 
