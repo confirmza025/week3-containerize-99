@@ -112,7 +112,7 @@ onMounted(fetchProducts)
       <div class="kv-logo">
         <span class="kv-glyph">⌗</span>
         <div>
-          <div class="kv-name">5dog.com</div>
+          <div class="kv-name">dujkanit Rataksorn 019</div>
           <div class="kv-sub">Game free fire 9.com</div>
         </div>
       </div>
