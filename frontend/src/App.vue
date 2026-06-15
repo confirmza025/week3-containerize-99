@@ -112,7 +112,7 @@ onMounted(fetchProducts)
       <div class="kv-logo">
         <span class="kv-glyph">⌗</span>
         <div>
-          <div class="kv-name">KeyVault</div>
+          <div class="kv-name">5dog.com</div>
           <div class="kv-sub">Game Key Management</div>
         </div>
       </div>
